@@ -1,0 +1,3 @@
+C:\Users\vchikkay\Source\Repos\Lab_sel\ConsoleApp1\ConsoleApp1\Program.cs;C:\Users\vchikkay\Source\Repos\Lab_sel\ConsoleApp1\.klocwork\ConsoleApp1\cs.kwlp\ds\1\25ao0msz.tck;1;0;False;4BBF39C5432F5517FEEAD4D3D541E515405313E1;False
+C:\Users\vchikkay\Source\Repos\Lab_sel\ConsoleApp1\ConsoleApp1\Properties\AssemblyInfo.cs;;2;0;False;0877BA65A742B84FFBA2D67E1C2205BC1890010F;False
+C:\Users\vchikkay\Source\Repos\Lab_sel\ConsoleApp1\ConsoleApp1\Class1.cs;C:\Users\vchikkay\Source\Repos\Lab_sel\ConsoleApp1\.klocwork\ConsoleApp1\cs.kwlp\ds\3\bp4rq4fs.guv;3;0;False;776E91C2942ECB2336EA7EBD9D47A8A5A989AA8F;False
